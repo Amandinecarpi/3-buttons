@@ -1,0 +1,23 @@
+{
+  "name": "3-buttons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch style.scss:style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amandinecarpi/3-buttons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amandinecarpi/3-buttons/issues"
+  },
+  "homepage": "https://github.com/Amandinecarpi/3-buttons#readme",
+  "dependencies": {
+    "sass": "^1.49.7"
+  }
+}
